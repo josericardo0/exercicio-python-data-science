@@ -1,1 +1,1 @@
-# Um exercício simples com Python e uso de algumas bibliotecas para plotar gráficos e fazer análise de dados baseado em datasets (arquivos csv).
+# Um exercício simples com Python e a biblioteca seaborn para análise de dados baseado em datasets (arquivos csv), totalmente em formato jupiter.
